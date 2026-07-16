@@ -6,7 +6,7 @@ Built to handle bursty uploads from many guests at once, without a traditional b
 
 | Home | Upload | Gallery |
 |---|---|---|
-| ![Home](screenshots/home.png) | ![Upload](screenshots/upload.png) | ![Gallery](screenshots/gallery.png) |
+| ![Home](screenshots/home.PNG) | ![Upload](screenshots/upload.PNG) | ![Gallery](screenshots/gallery.PNG) |
 
 ## Architecture
 
