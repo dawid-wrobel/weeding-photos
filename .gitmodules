@@ -1,0 +1,6 @@
+[submodule "weeding-photos-worker"]
+	path = weeding-photos-worker
+	url = https://github.com/dawid-wrobel/weeding-photos-worker.git
+[submodule "weeding-photos-frontend"]
+	path = weeding-photos-frontend
+	url = https://github.com/dawid-wrobel/weeding-photos-frontend.git
